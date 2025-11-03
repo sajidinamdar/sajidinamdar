@@ -1,81 +1,139 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey+There+👋+I'm+Sajid+Inamdar;BCA+2nd+Year+Student;Python+Learner+%7C+Web+Developer;Passionate+About+AI+%26+Cybersecurity;Welcome+to+My+Cyber+Space+🌌" />
-</h1>
-
----
-
-### 👨‍💻 About Me  
-🌱 **BCA 2nd Year Student** exploring the digital world one code at a time.  
-🚀 Learning **Python**, **Flask**, and **Cybersecurity** to build smart applications.  
-🎨 Love building **animated, responsive, and neon-themed** web designs.  
-💡 Always curious — always improving!  
-
----
-
-### ⚙️ Tech Stack  
+<!-- 🌟 PROFILE HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F0FF&center=true&vCenter=true&width=900&lines=Hey+There+👋+I'm+Sajid+Inamdar;Full-Stack+Developer+%26+AI+Enthusiast;BCA+2nd+Year+Student;Passionate+About+Innovation+%26+Code;Welcome+to+My+Cyber+Space+🌌" alt="Typing SVG" />
+</div>
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)
-
+  <p>
+    <strong>🚀 Crafting intelligent solutions | 🎨 Building beautiful web experiences | 🔐 Exploring cybersecurity</strong>
+  </p>
 </div>
 
 ---
 
-### 💼 Featured Projects  
+## 👨‍💻 About Me
 
-🔥 [**MyWebSpot**](https://github.com/inamdarsajid/MyWebSpot) — AI-powered personal portfolio built using Flask.  
-🌾 [**HaritSetu**](https://github.com/inamdarsajid/HaritSetu) — AI-driven agriculture support system with multi-language features.  
-⚙️ [**AgriSolve**](https://github.com/inamdarsajid/AgriSolve) — Farmer grievance redressal system with officer dashboard.
+I'm a passionate **BCA 2nd Year Student** from India, diving deep into the world of technology and innovation. I believe in learning by building and love creating projects that solve real-world problems.
+
+🌱 **Currently Learning:** Python, Flask, FastAPI, and Cybersecurity fundamentals
+
+🎯 **Goals:** Build scalable applications, contribute to open-source, and master AI/ML technologies
+
+💡 **Philosophy:** "Code today, innovate tomorrow!"
+
+🇮🇳 **Passionate about:** Indian tech ecosystem, Marathi language tech, and making technology accessible
 
 ---
 
-### 📈 GitHub Stats  
+## ⚙️ Tech Stack
 
+### **Frontend**
 <div align="center">
-  
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inamdarsajid&show_icons=true&theme=tokyonight&hide_border=true&line_height=27)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inamdarsajid&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inamdarsajid&theme=tokyonight&hide_border=true)
+  <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
 
+### **Backend & Core**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</div>
+
+### **Data & AI**
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </div>
 
 ---
 
-### 🌍 Connect With Me  
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://instagram.com/sajid__8080"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://github.com/inamdarsajid"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/inamdarsajid"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### ⚡ Fun Quote  
-> “Code is like humor. When you have to explain it, it’s bad.”  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400px" />
-</p>
+| 🔥 Project | 📝 Description | 🔗 Link |
+|-----------|---------------|----------|
+| **MyWebSpot** | AI-powered personal portfolio built with Flask & modern UI | [View](https://github.com/inamdarsajid/MyWebSpot) |
+| **HaritSetu** | AI-driven agriculture support system with multi-language features 🌾 | [View](https://github.com/inamdarsajid/HaritSetu) |
+| **AgriSolve** | Farmer grievance redressal system with officer dashboard ⚙️ | [View](https://github.com/inamdarsajid/AgriSolve) |
 
 ---
 
-<p align="center">
-  <img src="https://github.com/inamdarsajid/inamdarsajid/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
-</p>
+## 💼 What I Do Best
+
+- 🎯 **Full-Stack Development** - From frontend aesthetics to backend logic
+- 🤖 **AI & Machine Learning** - Building intelligent solutions
+- 🔐 **Cybersecurity** - Understanding digital safety and protection
+- 🌍 **Web Design** - Creating responsive, neon-themed, animated experiences
+- 📱 **Problem Solving** - Tackling real-world challenges with code
+
+---
+
+## 🎓 Learning Journey
+
+- ✅ HTML, CSS, JavaScript fundamentals
+- ✅ Python programming and web frameworks
+- ✅ Database design and management
+- 🔄 Currently: Advanced Python, FastAPI, AI/ML concepts
+- 📚 Next: Cloud deployment, DevOps, Advanced cybersecurity
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/sajidinamdar">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/sajidinamdar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sajidinamdar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:sajidinamdar@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 💭 My Philosophy
+
+> "The best code is not just functional—it's beautiful, maintainable, and solves someone's problem."
+
+> "Technology should empower people, not complicate their lives."
+
+---
+
+## 🎯 Fun Facts
+
+- 🇮🇳 Proud Indian developer working on Indian tech solutions
+- 🌙 Night owl who codes best after midnight
+- 🎮 Gamer who understands UX from a player's perspective
+- 📚 Lifelong learner—reading tech blogs every morning
+- ☕ Coffee-driven development enthusiast
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=00F0FF&center=true&width=600&lines=Always+Building+%7C+Always+Learning+%7C+Always+Growing+🚀" alt="Tagline" />
+  <p><strong>⭐ If you find my work interesting, feel free to star and follow! Let's build amazing things together.</strong></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=flat-square&color=blue" alt="" />
+</div>gi
