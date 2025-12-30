@@ -1,109 +1,68 @@
 <div align="center">
-  <img alt="GitHub Banner" src="https://img.shields.io/badge/Hi%20there!%20I'm%20Sajid-Welcome%20to%20my%20profile-ff69b4?style=for-the-badge&logo=github" width="100%"/>
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffc1,100:007cf0&height=230&section=header&text=Sajid%20Inamdar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
----
-
-<!-- 🌟 ANIMATED HEADLINE SVG WITH TYPING EFFECT -->
+<!-- TYPING INTRO -->
 <div align="center">
-  <h1>
-    <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=500&lines=Python+Developer;Backend+Specialist;AI+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
-    </a>
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Python+Developer;Ethical+Hacker+in+Training;TryHackMe+Practitioner;Secure+Web+Builder" />
 </div>
-
-<br/>
-
----
-
-<!-- 🎯 MOTIVATIONAL QUOTE WITH FADE-IN EFFECT -->
-<div align="center" style="margin: 20px 0;">
-  <blockquote style="border-left: 4px solid #FF6B9D; padding-left: 15px; font-style: italic; color: #666;">
-    <p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=4A90E2&center=true&vCenter=true&repeat=true&width=400&lines=Code+is+poetry+written+in+logic;Build+today%2C+secure+tomorrow" alt="Quote" />
-    </p>
-  </blockquote>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Python Developer** from India, specializing in backend development, AI, and cybersecurity. I believe in writing clean, efficient code and love creating solutions that solve real-world problems at scale.
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-  <h3>Languages & Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
-  </p>
-  
-  <h3>Specializations</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AI%2FML-FF6B9D?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
-    <img src="https://img.shields.io/badge/Cybersecurity-E74C3C?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
-    <img src="https://img.shields.io/badge/Backend-4A90E2?style=for-the-badge&logo=backend&logoColor=white" alt="Backend" />
-  </p>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&langs_count=8&theme=radical" />
-</div>
-
-<br/>
-
-<!-- 📈 Contribution Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidinamdar&theme=radical" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <h3>Let's Connect!</h3>
-  <p>
-    <a href="https://github.com/sajidinamdar" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/sajidinamdar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/sajidinamdar" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:sajidinamdar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-💻 Check out my repositories to explore more of my work!
 
 ---
 
 <div align="center">
-  <p>
-    <strong>⭐ Star my repositories if you find them useful!</strong>
-  </p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="29px" alt="wave" />
-  <strong>Happy Coding!</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-35d61d48-8d2f-4bfe-b2f5-7ff5f6c0bb92.gif" width="100%">
+</div>
+
+---
+
+## 🛡 About Me
+
+Cybersecurity student and Python developer from India focused on ethical hacking, network security, and secure web application development.
+
+Practicing real-world labs on TryHackMe and building secure backend systems with FastAPI.
+
+🎯 **Career Goal:** Cybersecurity Engineer / Ethical Hacker
+
+---
+
+## ⚙️ Skill Stack
+
+<div align="center">
+
+| Python | FastAPI | Linux | Networking | Web Security | TryHackMe |
+|-------|--------|------|------------|--------------|-----------|
+| 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+
+</div>
+
+---
+
+## 📊 GitHub Power Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=tokyonight" width="48%">
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidinamdar&theme=tokyonight" width="70%">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inamdarsajid)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Sajidinamdar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://sajid-portfolio-nine.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sajid80)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007cf0,100:0fffc1&height=140&section=footer"/>
 </div>
