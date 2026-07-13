@@ -1,18 +1,24 @@
 <div align="center">
 
-<!-- 🌌 TOKYO-NIGHT HIGH-TECH BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b82f6,100:7c3aed&height=220&section=header&text=Sajid%20Inamdar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<!-- 🌌 TOKYO-NIGHT HIGH-TECH WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b82f6,100:7c3aed&height=240&section=header&text=Sajid%20Inamdar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-<!-- 🎯 DYNAMIC TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Sajid+Inamdar;Ethical+Hacker;Application+Security;Python+Developer" />
+<!-- 🎯 DYNAMIC TEXT ANIMATION (CYBERPUNK GLITCH EFFECT) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Sajid+Inamdar;Application+Security+Researcher;Python+%2F+FastAPI+Developer;Ethical+Hacker+in+Training;Automation+Workflow+Architect" />
 
 <h3>
-Building secure applications through offensive security, secure coding and continuous learning.
+🚀 Building secure applications through offensive security, secure coding and continuous learning.
 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Active__Recon-3B82F6?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/System-SecOps__Initialized-7C3AED?style=flat-square" alt="System"/>
+  <img src="https://img.shields.io/badge/Environment-Linux__Terminal-00FFD1?style=flat-square" alt="Env"/>
+</p>
 
 <br>
 
-<!-- 🚀 PROFESSIONAL QUICK LINKS BADGES -->
+<!-- ⚡ GLOWING SOCIAL CONNECTIONS (TOP PILL BADGES) -->
 <a href="https://github.com/sajidinamdar">
   <img src="https://img.shields.io/github/followers/sajidinamdar?style=for-the-badge&logo=github&color=3B82F6"/>
 </a>
@@ -31,17 +37,19 @@ Building secure applications through offensive security, secure coding and conti
 
 <br><br>
 
-<!-- 📈 VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&color=2563EB&label=RECON+TRAFFIC"/>
+<!-- 📊 DYNAMIC VISIT TRACKER -->
+<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&color=2563EB&label=RECON+TRAFFIC+LOGS"/>
 
 </div>
 
 ---
 
-# ⚡ System_Initialization: /about_me
+# 🛸 System_Initialization: /root/about_me
 
-```⚙️
+```🚀 TERMINAL >_
+$ sudo systemctl start sajid-core.service
+[✓] Core Identity initialized successfully.
 [+] Identity   : Sajid Inamdar
-[+] Domain     : Cybersecurity Student & SecOps Developer
-[+] Mission    : Analyzing vulnerabilities, scripting privacy tools, and hardening networks.
-[+] Core Focus : Web Application Security (OWASP Top 10) & Secure Backend Architectures.
+[+] Domain     : Cybersecurity Student & SecOps Architecture Developer
+[+] Operation  : Analyzing infrastructure vulnerabilities, automating workflows, and building defensive shields.
+[+] Core Focus : Web Application Security (OWASP Top 10) & Cryptographic Relational Databases.
