@@ -1,209 +1,75 @@
 <div align="center">
 
-<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Sajid+Inamdar;Ethical+Hacker;Application+Security;Python+Developer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,50:2563EB,100:7F5AF0&text=Sajid%20Inamdar&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=38&animation=fadeIn"/>
-
-<h1 align="center">
-Ethical Hacker • Application Security • Python Developer
-</h1>
-
-<p align="center">
-
+<h3>
 Building secure applications through offensive security,
 secure coding and continuous learning.
-
-</p>
+</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&duration=3500&color=00C6FF&center=true&vCenter=true&width=900&lines=Ethical+Hacker;Application+Security;Python+Developer;Backend+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things"/>
-
-<br><br>
-
 <a href="https://github.com/sajidinamdar">
-<img src="https://img.shields.io/github/followers/sajidinamdar?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/sajidinamdar?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://github.com/sajidinamdar">
-<img src="https://img.shields.io/github/stars/sajidinamdar?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&color=2563EB"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/sajidinamdar-sec/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://tryhackme.com/p/Sajidinamdar">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 </a>
 
 <a href="https://sajid-portfolio-nine.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="mailto:sajitenamdar@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&color=2563EB"/>
+
 </div>
 
 ---
-
-<table>
-<tr>
-
-<td width="58%">
 
 # About Me
 
-I'm **Sajid Inamdar**, a cybersecurity student passionate about
-building secure software and learning modern application security.
+<table>
 
-### Current Focus
+<tr>
+
+<td width="62%">
+
+I'm **Sajid Inamdar**, a cybersecurity student from India passionate about securing applications and building practical security tools.
+
+### Areas of Interest
 
 - Application Security
+- Ethical Hacking
 - Penetration Testing
-- Secure Backend Development
-- Python Automation
+- Python Development
 - API Security
+- Secure Coding
 - Linux
 - DevSecOps
 
-### Career Goal
+### Currently Learning
 
-To become a skilled **Application Security Engineer** by combining
-offensive security knowledge with secure software development.
-
-</td>
-
-<td width="42%">
-
-<img width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+- Cloud Security
+- Kubernetes
+- Secure Architecture
+- Advanced Web Security
 
 </td>
 
-</tr>
-</table>
+<td width="38%">
 
----
-
-<div align="center">
-
-| Role | Specialization | Location |
-|:----:|:--------------:|:--------:|
-| Ethical Hacker | Application Security | India |
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
-
-<!-- ====================================================== -->
-<!--                    TECH STACK                           -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Technology%20Stack&fontSize=30&fontColor=ffffff&color=0:00C6FF,100:7F5AF0"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%">
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-## Security
-
-<p>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-CC0000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge"/>
-
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 
 </td>
 
@@ -213,168 +79,90 @@ offensive security knowledge with secure software development.
 
 ---
 
-<div align="center">
+# Connect
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Current%20Learning&fontSize=30&fontColor=ffffff&color=0:7F5AF0,100:00C6FF"/>
+<p align="center">
 
-</div>
+<a href="https://github.com/sajidinamdar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/sajidinamdar-sec/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
+</a>
 
-<table>
+<a href="https://tryhackme.com/p/Sajidinamdar">
+<img src="https://img.shields.io/badge/TryHackMe-red?style=flat-square&logo=tryhackme"/>
+</a>
 
-<tr>
+<a href="https://sajid-portfolio-nine.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel"/>
+</a>
 
-<td width="25%" align="center">
-
-### Application Security
-
-Learning secure design, authentication, authorization and secure coding.
-
-</td>
-
-<td width="25%" align="center">
-
-### API Security
-
-REST APIs, JWT, OAuth, rate limiting, API testing and OWASP API Top 10.
-
-</td>
-
-<td width="25%" align="center">
-
-### DevSecOps
-
-CI/CD security, Docker, GitHub Actions and automation.
-
-</td>
-
-<td width="25%" align="center">
-
-### Cloud Security
-
-AWS fundamentals, IAM, storage security and networking.
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3B82F6,100:7C3AED"/>
+
+## Tech Stack
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidinamdar&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,linux,docker,git,github,postgres,mysql,html,css,js,vscode,bash&perline=7"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
-
-</div>
-<!-- ====================================================== -->
-<!--                GITHUB DASHBOARD                        -->
-<!-- ====================================================== -->
+## Security Arsenal
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=GitHub%20Dashboard&fontSize=32&fontColor=ffffff&color=0:2563EB,50:00C6FF,100:7F5AF0"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 </div>
 
-<br>
+---
 
-<table align="center">
+## GitHub Statistics
 
-<tr>
+<div align="center">
 
-<td width="50%">
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img
-height="185"
-src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-</td>
-
-<td width="50%">
-
-<img
-height="185"
+<img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 <br>
 
 <div align="center">
 
-<img
-width="95%"
+<img width="70%"
 src="https://streak-stats.demolab.com?user=sajidinamdar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img
-width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidinamdar&theme=tokyonight"/>
-
-</div>
-
----
+## Contribution Graph
 
 <div align="center">
 
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajidinamdar&theme=tokyonight"/>
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajidinamdar&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajidinamdar&theme=tokyonight"/>
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajidinamdar&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=sajidinamdar&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img
-width="100%"
+<img width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar&theme=tokyo-night&hide_border=true"/>
 
 </div>
@@ -383,309 +171,55 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar
 
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sajidinamdar&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
-
-<!-- ====================================================== -->
-<!--                  QUICK OVERVIEW                        -->
-<!-- ====================================================== -->
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="25%">
-
-### Focus
-
-Application Security
-
-Python
-
-Secure Coding
-
-</td>
-
-<td align="center" width="25%">
-
-### Interest
-
-Pentesting
-
-API Security
-
-Cloud Security
-
-</td>
-
-<td align="center" width="25%">
-
-### Current
-
-Building
-
-Cybersecurity
-
-Projects
-
-</td>
-
-<td align="center" width="25%">
-
-### Goal
-
-Application
-
-Security
-
-Engineer
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
+### Current Focus
+
+| Security | Development | Learning |
+|:---------|:------------|:---------|
+| Application Security | Python | Cloud Security |
+| API Security | FastAPI | Kubernetes |
+| Secure Coding | Backend | DevSecOps |
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3B82F6,100:7C3AED"/>
+
+## Featured Projects
+
 <div align="center">
-
-<h3>Building Secure Software • Learning Continuously • Sharing Knowledge</h3>
-
-</div>
-
-
-<!-- ====================================================== -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Featured%20Projects&fontSize=32&fontColor=ffffff&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
-
-<p>
-
-A collection of projects focused on cybersecurity, Python automation,
-application security and backend development.
-
-</p>
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%">
 
 <a href="https://github.com/sajidinamdar/Syntecxhub_Password-Manager">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=Syntecxhub_Password-Manager&theme=tokyonight&hide_border=true"/>
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=Syntecxhub_Password-Manager&theme=tokyonight&hide_border=true"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-### Secure Password Manager
-
-**Technology**
-
-- Python
-- AES Encryption
-- Tkinter
-- Cryptography
-
-**Highlights**
-
-- Secure password storage
-- AES encryption
-- User-friendly interface
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Python Port Scanner
-
-**Technology**
-
-- Python
-- Socket Programming
-- Multithreading
-
-**Highlights**
-
-- TCP Port Scanning
-- Fast scanning
-- Clean output
-
-</td>
-
-<td width="50%">
 
 <a href="https://github.com/sajidinamdar/Syntecxhub_Port-Scanner">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=Syntecxhub_Port-Scanner&theme=tokyonight&hide_border=true"/>
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=Syntecxhub_Port-Scanner&theme=tokyonight&hide_border=true"/>
 </a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
 
 <a href="https://github.com/sajidinamdar/whatsapp-bot">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=whatsapp-bot&theme=tokyonight&hide_border=true"/>
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=whatsapp-bot&theme=tokyonight&hide_border=true"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-### WhatsApp Automation Bot
-
-**Technology**
-
-- Python
-- Automation
-- Selenium
-
-**Highlights**
-
-- Automated messaging
-- Browser automation
-- Productivity workflows
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Cybersecurity Projects
-
-**Includes**
-
-- Networking
-- Cryptography
-- Python Security Tools
-- Labs
-- Practice Projects
-
-</td>
-
-<td width="50%">
 
 <a href="https://github.com/sajidinamdar/Cybersecurity-Projects">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=Cybersecurity-Projects&theme=tokyonight&hide_border=true"/>
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=Cybersecurity-Projects&theme=tokyonight&hide_border=true"/>
 </a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/sajidinamdar/IP-Grabber">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidinamdar&repo=IP-Grabber&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-### IP Grabber (Educational)
-
-**Purpose**
-
-This repository is intended for networking education and understanding how IP information can be collected in controlled, authorized environments.
-
-**Technology**
-
-- Python
-- Networking
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                    PORTFOLIO                           -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Portfolio&fontSize=32&fontColor=ffffff&color=0:7F5AF0,100:00C6FF"/>
 
 </div>
 
-<br>
+---
+
+## Portfolio
 
 <div align="center">
 
-<h3>Personal Portfolio</h3>
+<a href="https://sajid-portfolio-nine.vercel.app">
 
-<p>
-
-Explore my work, projects and technical journey.
-
-</p>
-
-<a href="https://sajid-portfolio-nine.vercel.app/">
-
-<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -693,163 +227,13 @@ Explore my work, projects and technical journey.
 
 ---
 
-<!-- ====================================================== -->
-<!--                 CURRENT WORK                           -->
-<!-- ====================================================== -->
+## TryHackMe
 
 <div align="center">
-
-| Currently Building | Learning | Goal |
-|:------------------:|:--------:|:----:|
-| Cybersecurity Tools | AppSec | Security Engineer |
-| Python Automation | Cloud Security | Open Source |
-| Backend Projects | DevSecOps | Continuous Learning |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
-
-</div>
-
-<!-- ====================================================== -->
-<!--                 ACHIEVEMENTS                           -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Achievements&fontSize=32&fontColor=ffffff&color=0:2563EB,50:00C6FF,100:7F5AF0"/>
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-<h3>Cybersecurity</h3>
-
-Application Security
-
-Ethical Hacking
-
-Python Security
-
-Networking
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>Learning</h3>
-
-TryHackMe
-
-Hands-on Labs
-
-Secure Coding
-
-Cloud Security
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>Career Goal</h3>
-
-Application Security
-
-Engineer
-
-Security Research
-
-Open Source
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                 CERTIFICATIONS                         -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Certifications&fontSize=32&fontColor=ffffff&color=0:7F5AF0,100:00C6FF"/>
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td>
-
-✔ Ethical Hacking Bootcamp – WsCube Tech
-
-✔ TryHackMe Learning Paths
-
-✔ Cybersecurity Hands-on Labs
-
-✔ Python Security Projects
-
-✔ Secure Coding Practice
-
-</td>
-
-<td>
-
-Future Goals
-
-• eJPT
-
-• PNPT
-
-• Security+
-
-• OSCP
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                  TRYHACKME                             -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=TryHackMe&fontSize=32&fontColor=ffffff&color=0:00C6FF,100:2563EB"/>
-
-<br><br>
 
 <a href="https://tryhackme.com/p/Sajidinamdar">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sajidinamdar.png" alt="TryHackMe Badge"/>
-
-</a>
-
-<br><br>
-
-<a href="https://tryhackme.com/p/Sajidinamdar">
-
-<img src="https://img.shields.io/badge/View%20Profile-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sajidinamdar.png"/>
 
 </a>
 
@@ -857,87 +241,18 @@ Future Goals
 
 ---
 
-<!-- ====================================================== -->
-<!--                  CONNECT                               -->
-<!-- ====================================================== -->
+## Certifications
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Connect&fontSize=32&fontColor=ffffff&color=0:2563EB,50:00C6FF,100:7F5AF0"/>
-
-<br><br>
-
-<a href="mailto:sajitenamdar@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/sajidinamdar-sec/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/sajidinamdar">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://sajid-portfolio-nine.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-</div>
+- Ethical Hacking Bootcamp – WsCube Tech
+- TryHackMe Learning Paths
+- Cybersecurity Hands-on Labs
+- Python Security Projects
 
 ---
 
-<!-- ====================================================== -->
-<!--              CONTRIBUTION SNAKE                        -->
-<!-- ====================================================== -->
+## Connect
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                    FOOTER                              -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<h2>Thank you for visiting my profile.</h2>
-
-<p>
-
-I enjoy learning, building and securing modern applications.
-
-Let's connect and build something meaningful.
-
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
-
-</div>
-
-<!-- ======================================================== -->
-<!--                    CONTACT & FOOTER                       -->
-<!-- ======================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Let's%20Connect&fontSize=32&fontColor=ffffff&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
-
-<br><br>
 
 <a href="mailto:sajitenamdar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -955,100 +270,6 @@ Let's connect and build something meaningful.
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 </a>
 
-<a href="https://sajid-portfolio-nine.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Open for
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-Application Security
-
-</td>
-
-<td align="center" width="33%">
-
-Cybersecurity Projects
-
-</td>
-
-<td align="center" width="33%">
-
-Python Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-Collaboration
-
-</td>
-
-<td align="center">
-
-Open Source
-
-</td>
-
-<td align="center">
-
-Learning
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## Current Goals
-
-</div>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✓ Build More Security Tools
-
-✓ Master Application Security
-
-✓ Learn Cloud Security
-
-✓ Contribute to Open Source
-
-✓ Grow as a Security Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-<div align="center">
-
-## Quote
-
-> **"Security is not just about finding vulnerabilities — it's about building software that makes them difficult to create."**
-
 </div>
 
 ---
@@ -1063,20 +284,8 @@ Learning
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidinamdar&theme=tokyonight"/>
+### Thanks for visiting my profile!
 
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-If you like my work, consider following my GitHub profile and connecting on LinkedIn.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00C6FF,50:2563EB,100:7F5AF0"/>
+*"Building secure software through continuous learning and practical cybersecurity."*
 
 </div>
