@@ -1,57 +1,97 @@
 <div align="center">
 
-<img src="[YOUR_BANNER_LINK](https://media.licdn.com/dms/image/v2/D5616AQHTsAQHx-5hXQ/profile-displaybackgroundimage-shrink_200_800/B56Z7z0iJGHIAU-/0/1782207095695?e=1785369600&v=beta&t=nDlgmIwRJHWKzPHDkg-ZxpC76Hm5qNlG6JaPSXrVs-A)" width="100%" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sajid Inamdar
 
-# 👋 Hi, I'm Sajid Inamdar
+```text
+███████╗ █████╗      ██╗██╗██████╗
+██╔════╝██╔══██╗     ██║██║██╔══██╗
+███████╗███████║     ██║██║██║  ██║
+╚════██║██╔══██║██   ██║██║██║  ██║
+███████║██║  ██║╚█████╔╝██║██████╔╝
+╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═════╝
 
-### Ethical Hacker | Python Developer | Cybersecurity Enthusiast
+> Ethical Hacker | Python Developer | AppSec Learner
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Python+Developer;AppSec+Learner;Bug+Hunter;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ethical+Hacker;Application+Security;Python+Developer;Cybersecurity+Researcher;Always+Learning..." />
 
 <p>
-<a href="https://linkedin.com/in/sajidinamdar-sec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/sajidinamdar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="mailto:inamdarsajid46@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://github.com/sajidinamdar">
+<img src="https://img.shields.io/github/followers/sajidinamdar?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&color=blue">
+
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 SYSTEM INFORMATION
 
-- 🔐 Ethical Hacking
-- 🌐 Network Security
-- 🛡️ Web Application Security
-- 🐍 Python Developer
-- 🚀 FastAPI
-- 🎯 AppSec Learner
+```yaml
+Name      : Sajid Inamdar
+
+Location  : Maharashtra, India
+
+Role      : Ethical Hacker
+
+Language  : Python
+
+Backend   : FastAPI
+
+Interest  : AppSec
+
+Focus      : Pentesting
+
+Learning   : DevSecOps
+
+Goal       : Security Engineer
+```
 
 ---
 
-# 🛠 Tech Arsenal
+# ⚡ CYBER ARSENAL
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,mysql,postgresql,vscode,fastapi,flask,html,css,js,bash,docker" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,fastapi,flask,postgres,mysql,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🔐 SECURITY TOOLS
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OWASP-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge">
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GITHUB DASHBOARD
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&theme=tokyonight&show_icons=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=tokyonight"/>
+
+</p>
 
 <p align="center">
 
@@ -61,52 +101,53 @@
 
 ---
 
-# 🏆 GitHub Trophy
+# 🚀 FEATURED PROJECTS
+
+| Project | Tech |
+|---------|------|
+| 🔐 Password Manager | Python + AES |
+| 💬 Encrypted Chat | Socket + AES |
+| 🌐 Port Scanner | Python |
+| 🕷 Web Scanner | Requests + BeautifulSoup |
+| 🔍 OSINT Toolkit | Python |
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+- 🔥 300+ TryHackMe Rooms
+- 🏆 AppSec Internship
+- 🛡️ Bug Bounty
+- 🚀 Open Source Contribution
+- 📚 Learn Kubernetes Security
+
+---
+
+# 🌐 CONNECT
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sajidinamdar&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar&theme=react-dark"/>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔐 Password Manager | AES Encrypted Password Manager |
-| 🌐 Port Scanner | Python TCP Port Scanner |
-| 💬 Encrypted Chat | AES Secure Chat Application |
-| 🕷️ Web Scanner | Web Vulnerability Scanner |
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/sajidinamdar-sec">
+<a href="https://www.linkedin.com/in/sajidinamdar-sec/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:inamdarsajid46@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://tryhackme.com/p/Sajidinamdar">
 <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme">
 </a>
 
+<a href="mailto:inamdarsajid46@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar&theme=tokyo-night"/>
+
+</p>
 
 <p align="center">
 
