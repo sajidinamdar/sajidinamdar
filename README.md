@@ -1,75 +1,77 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1D4ED8,70:2563EB,100:3B82F6&text=Sajid%20Inamdar&fontColor=FFFFFF&fontSize=56&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:030712,25:0F172A,50:1D4ED8,75:2563EB,100:7C3AED&text=SAJID%20INAMDAR&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Application+Security;Ethical+Hacker;Python+Developer;Secure+Software+Engineer"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=60A5FA&lines=Application+Security;Ethical+Hacker;Python+Developer;Backend+Developer;Always+Learning"/>
-
-<br><br>
-
 <a href="https://github.com/sajidinamdar">
-<img src="https://img.shields.io/github/followers/sajidinamdar?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/sajidinamdar?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sajidinamdar-sec/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://tryhackme.com/p/Sajidinamdar">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
-<a href="https://sajid-portfolio-nine.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://sajid-portfolio-nine.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=sajidinamdar&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
 
 </div>
 
 ---
 
-# About Me
+# ABOUT
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidinamdar&theme=github_dark"/>
+
+</div>
 
 ```text
 ──────────────────────────────────────────────────────────────
 
-Name        : Sajid Inamdar
+NAME          Sajid Inamdar
 
-Role        : Cybersecurity Student
+ROLE          Cybersecurity Student
 
-Focus       : Application Security
+SPECIALITY    Application Security
 
-Languages   : Python, JavaScript
+STACK         Python • FastAPI • Flask
 
-Backend     : FastAPI, Flask
+DATABASE      PostgreSQL • MySQL
 
-Database    : PostgreSQL, MySQL
+PLATFORM      Linux
 
-Operating System : Linux
+LEARNING      Cloud Security • DevSecOps
 
-Learning    : Cloud Security, DevSecOps
-
-Goal        : Application Security Engineer
+GOAL          Application Security Engineer
 
 ──────────────────────────────────────────────────────────────
 ```
 
-I am passionate about securing web applications, identifying vulnerabilities, and building secure backend systems. My work focuses on application security, secure coding practices, API security, and practical cybersecurity projects using Python.
-
 ---
 
-# Current Role
+# ROLE
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<h3>Security</h3>
+<h3>SECURITY</h3>
 
 Application Security
 
@@ -77,13 +79,13 @@ API Security
 
 OWASP Top 10
 
-Secure Coding
+Threat Modeling
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<h3>Development</h3>
+<h3>DEVELOPMENT</h3>
 
 Python
 
@@ -91,37 +93,71 @@ FastAPI
 
 Flask
 
-PostgreSQL
+REST APIs
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<h3>Learning</h3>
+<h3>CURRENT FOCUS</h3>
+
+Secure Coding
+
+Backend Security
 
 Cloud Security
 
 DevSecOps
-
-Threat Modeling
-
-Secure Architecture
 
 </td>
 
 </tr>
 </table>
 
----
-
-# Focus Areas
-
-- Application Security
-- API Security
-- Secure Backend Development
-- Python Automation
-- Linux
-- Threat Modeling
-- Secure Software Design
+</div>
 
 ---
+
+# DEVELOPMENT ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img width="92%" src="https://streak-stats.demolab.com?user=sajidinamdar&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# CONTRIBUTION
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# THANK YOU
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:030712,25:0F172A,50:1D4ED8,75:2563EB,100:7C3AED"/>
+
+<h3>Building Secure Software Through Continuous Learning</h3>
+
+<p>
+Application Security • Python • Backend Engineering • Cybersecurity
+</p>
+
+</div>
