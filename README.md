@@ -1,57 +1,115 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffc1,100:007cf0&height=230&section=header&text=Sajid%20Inamdar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</div>
 
-<!-- TYPING INTRO -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Python+Developer;Ethical+Hacker+in+Training;TryHackMe+Practitioner;Secure+Web+Application+Builder" />
+<img src="[YOUR_BANNER_LINK](https://media.licdn.com/dms/image/v2/D5616AQHTsAQHx-5hXQ/profile-displaybackgroundimage-shrink_200_800/B56Z7z0iJGHIAU-/0/1782207095695?e=1785369600&v=beta&t=nDlgmIwRJHWKzPHDkg-ZxpC76Hm5qNlG6JaPSXrVs-A)" width="100%" />
+
+# 👋 Hi, I'm Sajid Inamdar
+
+### Ethical Hacker | Python Developer | Cybersecurity Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Python+Developer;AppSec+Learner;Bug+Hunter;Always+Learning..." />
+
+<p>
+<a href="https://linkedin.com/in/sajidinamdar-sec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/sajidinamdar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="mailto:inamdarsajid46@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751381-35d61d48-8d2f-4bfe-b2f5-7ff5f6c0bb92.gif" width="100%">
-</div>
+# 👨‍💻 About Me
+
+- 🔐 Ethical Hacking
+- 🌐 Network Security
+- 🛡️ Web Application Security
+- 🐍 Python Developer
+- 🚀 FastAPI
+- 🎯 AppSec Learner
 
 ---
 
-## 🛡 About Me
+# 🛠 Tech Arsenal
 
-Cybersecurity student and Python developer from India focused on:
+<p align="center">
 
-• Ethical hacking  
-• Network security  
-• Secure backend & API development  
-• Web application security  
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,mysql,postgresql,vscode,fastapi,flask,html,css,js,bash,docker" />
 
-Actively practicing real-world labs on **TryHackMe** and building secure systems with **FastAPI & Python**.
-
-🎯 **Career Goal:** Cybersecurity Engineer / Ethical Hacker
+</p>
 
 ---
 
-## ⚙️ Skill Stack
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-| Python | FastAPI | Linux | Networking | Web Security | TryHackMe |
-|-------|--------|------|------------|--------------|-----------|
-| 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=tokyonight"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=tokyonight"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffd1,100:007cf0&height=4"/>
-</div>
+</p>
 
 ---
 
-## 🧠 Cyber Focus Areas
+# 🔥 GitHub Streak
 
-```text
-• Vulnerability Assessment & Recon
-• Network Enumeration
-• Web Exploitation
-• Secure API Development
-• OWASP Top 10
-• Linux Hardening
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sajidinamdar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sajidinamdar&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar&theme=react-dark"/>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔐 Password Manager | AES Encrypted Password Manager |
+| 🌐 Port Scanner | Python TCP Port Scanner |
+| 💬 Encrypted Chat | AES Secure Chat Application |
+| 🕷️ Web Scanner | Web Vulnerability Scanner |
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sajidinamdar-sec">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:inamdarsajid46@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://tryhackme.com/p/Sajidinamdar">
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
