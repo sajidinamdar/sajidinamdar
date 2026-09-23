@@ -1,19 +1,8 @@
 <div align="center">
 
-<!-- Terminal Top Navigation Bar -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=020617&text=_sajid@github:~$%20%20%20About%20%20%20Skills%20%20%20Projects%20%20%20Stats%20%20%20Contact&fontSize=14&fontColor=60A5FA&fontAlignY=50&fontFamily=JetBrains+Mono"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:030712,30:1D4ED8,70:2563EB,100:7C3AED&text=SAJID%20INAMDAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:1E3A8A&text=SAJID%20INAMDAR&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=3B82F6&strokeWidth=1"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+ENGINEER;PYTHON+DEVELOPER;BUILDING+AI+SOLUTIONS;LIFELONG+LEARNER"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sajidinamdar&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge&logo=github"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=APPLICATION+SECURITY+ENGINEER;ETHICAL+HACKER;PYTHON+DEVELOPER"/>
 
 </div>
 
@@ -21,20 +10,93 @@
 
 <div align="center">
 
-### `$` whoami
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidinamdar&theme=github_dark"/>
 
 </div>
 
-| 📍 Location | 🎓 Education | ⚡ Core Focus | 💡 Interests |
-| :--- | :--- | :--- | :--- |
-| Sangamner, Maharashtra, India | BCA (2027)<br>University of Mysore | AI / ML & GenAI | AI, Security, Open Source, Tech, Learning |
-
 ---
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%">
+
+<h2>ABOUT</h2>
 
 ```text
-> AI Engineer
-> Python Developer
-> Building AI Solutions
-> Lifelong Learner
+Name       : Sajid Inamdar
+
+Role       : Cybersecurity Student
+
+Focus      : Application Security
+
+Backend    : Python • FastAPI
+
+Learning   : Cloud Security
+```
+
+</td>
+
+<td width="50%">
+
+<h2>ROLE</h2>
+
+```text
+Application Security
+
+API Security
+
+Secure Coding
+
+Backend Development
+
+Threat Modeling
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<h2>DEVELOPMENT ANALYTICS</h2>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajidinamdar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidinamdar&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img width="92%" src="https://streak-stats.demolab.com?user=sajidinamdar&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>CONTRIBUTION MAP</h2>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajidinamdar&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:030712,30:1D4ED8,70:2563EB,100:7C3AED"/>
+
+<h3>THANK YOU</h3>
+
+<p>Building Secure Software Through Continuous Learning</p>
+
+</div>
